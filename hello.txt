@@ -19,5 +19,6 @@ hello hello
 hello hello
 hello hello
 hello hello  fkjlsakdjflkjsaldkfjklsadjlkfjaoisdhflsad
+hello hello	"热修复的分支合并修改"
 hello hello
 hello hello
